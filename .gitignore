@@ -29,6 +29,7 @@ share/python-wheels/
 */.ipynb_checkpoints/*
 
 # Local environment configuration / data files
+.DS_Store
 .env
 .venv
 env/
@@ -40,4 +41,3 @@ venv.bak/
 # Project specific data outputs (optional but recommended for large datasets)
 *.zip
 *.tsv
-*.csv
